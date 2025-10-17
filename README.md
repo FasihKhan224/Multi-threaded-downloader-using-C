@@ -64,7 +64,9 @@ The basic syntax is to provide the URL of the file you want to download.
 
 ### Bash
 ./cdownloader [OPTIONS] <URL>
+
 Options
+
 --threads N: Specifies the number of threads to use for the download. Defaults to 2.
 
 --name FILENAME: Sets the name for the downloaded file. If you don't use this, it will try to guess the name from the URL.
