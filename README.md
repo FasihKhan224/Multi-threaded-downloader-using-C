@@ -32,8 +32,11 @@ You can install these on a Debian/Ubuntu system with:
 
 ### Bash
 sudo apt-get update
+
 sudo apt-get install build-essential libcurl4-openssl-dev libssl-dev
+
 Compilation
+
 Compiling is super simple. Just run this command in your terminal:
 
 ### Bash
